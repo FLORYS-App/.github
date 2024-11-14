@@ -1,6 +1,8 @@
 # FLORYS: Flora Leaf Observation & Recognition Systems
 
-Welcome to the GitHub page of **FLORYS** We’re a team of passionate Bangkit cohorts committed to developing solutions for sustainable growth of houseplants.
+Welcome to the GitHub page of **FLORYS!**
+
+We’re a team of passionate Bangkit cohorts committed to developing solutions for sustainable growth of houseplants.
 
 ## Background
 
@@ -24,15 +26,15 @@ We’re here to:
 Our team is made up of a diverse group of creators, developers, and strategists. Get to know us!
 
 
-| Role | Member ID       | Name                    | University                         | Status   |
+| Learning Path | Member ID       | Name                    | University                         | Status   |
 |------|------------------|-------------------------|------------------------------------|----------|
-| ML   | M452B4KY2004    | Irfan Pandu Aji         | Universitas Muhammadiyah Jakarta   | Active   |
-| ML   | M007B4KX1965    | Imelda Maretta Putri    | Universitas Dian Nuswantoro        | Active   |
-| ML   | M004B4KY3137    | Muhammad Zidan Firdaus  | Institut Teknologi Sepuluh Nopember| Active   |
-| CC   | C211B4KY3004    | Muhammad Rafli Mahmud   | Universitas Indraprasta PGRI       | Active   |
-| CC   | C120B4KY4265    | Syauqi Mubarok          | Institut Teknologi Telkom Purwokerto | Active |
-| MD   | A452B4KY1450    | Fauzan Azima            | Universitas Muhammadiyah Jakarta   | Active   |
-| MD   | A452B4KY4520    | Yasir Abduzzhohir       | Universitas Muhammadiyah Jakarta   | Active   |
+| Machine Learning   | M452B4KY2004    | Irfan Pandu Aji         | Universitas Muhammadiyah Jakarta   | Active   |
+| Machine Learning   | M007B4KX1965    | Imelda Maretta Putri    | Universitas Dian Nuswantoro        | Active   |
+| Machine Learning   | M004B4KY3137    | Muhammad Zidan Firdaus  | Institut Teknologi Sepuluh Nopember| Active   |
+| Cloud Computing   | C211B4KY3004    | Muhammad Rafli Mahmud   | Universitas Indraprasta PGRI       | Active   |
+| Cloud Computing   | C120B4KY4265    | Syauqi Mubarok          | Institut Teknologi Telkom Purwokerto | Active |
+| Mobile Developer   | A452B4KY1450    | Fauzan Azima            | Universitas Muhammadiyah Jakarta   | Active   |
+| Mobile Developer   | A452B4KY4520    | Yasir Abduzzhohir       | Universitas Muhammadiyah Jakarta   | Active   |
 
 
 ## Tech Stack
@@ -42,14 +44,6 @@ Our projects use a variety of tools and technologies to bring ideas to life:
 - **Frameworks:** Node.js.
 - **Data & AI:** TensorFlow, PyTorch, Scikit-Learn, Numpy, Pandas.
 - **Infrastructure:** Google Cloud Platform.
-
-### Report Issues
-
-Found a bug or have a feature request? Head over to our [issues page](#) to let us know. We value community feedback and strive to keep our projects bug-free!
-
-## License
-
-This organization and all its repositories are open-sourced under the [MIT License](LICENSE). Feel free to use and contribute to our projects under the terms of this license.
 
 ---
 
