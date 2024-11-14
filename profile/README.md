@@ -1,12 +1,12 @@
 # FLORYS: Flora Leaf Observation & Recognition Systems
 
-> **[Tagline or mission statement]**
-
 Welcome to the GitHub page of **FLORYS** We’re a team of passionate Bangkit cohorts committed to developing solutions for sustainable growth of houseplants.
 
----
-
 ## Background
+
+Plants such as roses, orchids, and jasmine are often used to decorate homes, offices, and so on because of their beauty. Many people who own ornamental plants find it difficult to take good care of them due to a lack of knowledge about the health condition of the plants or how to care for them. Lack of understanding can make plants wilt, not flower, or die. 
+
+FLORYS is an Android app that can help houseplant owners take better care of their plants. The app can help analyze plants' health with photos or scans of plants and provide care advice based on the weather, temperature, and humidity around the plants. In addition, the app features a chatbot to give information on houseplants as well as educational and interactive plant check-in and watering reminder games. With this app, it is hoped that users will be able to get customized advice based on the condition of their plants and information on the type of houseplants they have.
 
 ## Our Mission
 
@@ -35,7 +35,7 @@ Our team is made up of a diverse group of creators, developers, and strategists.
 | MD   | A452B4KY4520    | Yasir Abduzzhohir       | Universitas Muhammadiyah Jakarta   | Active   |
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 Our projects use a variety of tools and technologies to bring ideas to life:
 - **Languages:** Python, JavaScript, Kotlin.
