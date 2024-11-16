@@ -26,7 +26,7 @@ We’re here to:
 Our team is made up of a diverse group of creators, developers, and strategists. Get to know us!
 
 
-| Learning Path | Member ID       | Name                    | University                         | Status   |
+| Learning Path | Bangkit ID       | Name                    | University                         | Status   |
 |------|------------------|-------------------------|------------------------------------|----------|
 | Machine Learning   | M452B4KY2004    | Irfan Pandu Aji         | Universitas Muhammadiyah Jakarta   | Active   |
 | Machine Learning   | M007B4KX1965    | Imelda Maretta Putri    | Universitas Dian Nuswantoro        | Active   |
